@@ -6,7 +6,7 @@ import { format } from '../../utils/utils';
   styleUrl: 'my-title.css',
   shadow: true,
 })
-export class MyComponent {
+export class MyTitle {
   /**
    * The first name
    */
